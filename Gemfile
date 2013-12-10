@@ -29,3 +29,5 @@ gem 'whois'
 gem 'thin'
 gem 'agent_orange', :git => 'git://github.com/kevinelliott/agent_orange.git'
 gem 'heroku'
+
+gem 'coveralls', require: false
